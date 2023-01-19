@@ -1,1 +1,1 @@
-# Twitter sentiment analysis
+# Twitter sentiment polarity analysis
